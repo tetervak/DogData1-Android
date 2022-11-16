@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">DogData1</string>
+    <string name="app_name">Dog Data 1</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
 </resources>
